@@ -1,5 +1,5 @@
 # RoboMusic
-VST3 plug-in for musical composition synthesis using NCP and RL
+VST3 plug-in for musical composition synthesis using NCP and Deep Q-Learning
 
 TODO:
 - Import musical sequences from multiple formats (.mp3, .mp4, .wav, etc.)
