@@ -3,7 +3,7 @@ VST3 plug-in for musical composition synthesis using NCP and Deep Q-Learning
 
 TODO:
 - Import musical sequences from multiple formats (.mp3, .mp4, .wav, etc.), e.g. AnthemScore
-- Transpose musical sequences to same key
+- Transpose musical sequences to same key (http://nickkellyresearch.com/python-script-transpose-midi-files-c-minor/)
 - Represent a single pitch value by a one-hot encoded vector of length equal to the number of pitches playable on most pianos (88, from A0 to C8)
 - Encode the durations as a one-hot vector, with each bit corresponding to a note duration that is frequently observed in the musical corpus
 - Multi-Stream Note Representation
