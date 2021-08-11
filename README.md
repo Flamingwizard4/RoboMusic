@@ -16,3 +16,8 @@ TODO:
 
 Misc Notes:
 Discount factor, learning rate, plan bits? = 0.8, 0.075, 20
+
+Useful Links:
+https://towardsdatascience.com/practical-tips-for-training-a-music-model-755c62560ec2
+https://www.datacamp.com/community/tutorials/using-tensorflow-to-compose-music
+https://web.mit.edu/music21/doc/developerReference/index.html
