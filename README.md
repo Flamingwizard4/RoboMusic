@@ -1,6 +1,8 @@
 # RoboMusic
 VST3 plug-in for musical composition synthesis using NCP and Deep Q-Learning
 
+Inspired by "Polyphonic Music Composition with LSTM Neural Networks and Reinforcement Learning"
+
 TODO:
 - Import musical sequences from multiple formats (.mp3, .mp4, .wav, etc.), e.g. AnthemScore
 - Transpose musical sequences to same key (http://nickkellyresearch.com/python-script-transpose-midi-files-c-minor/)
