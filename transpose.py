@@ -27,6 +27,6 @@ for file in glob.glob("*.mid"):
         newFileName = "Am_" + file
     newscore = score.transpose(halfSteps)
     key = newscore.analyze('key')
-    #print key.tonic.name, key.mode
+    print key.tonic.name, key.mode
     #newscore.write('midi',newFileName)
-    returm newscore
+
