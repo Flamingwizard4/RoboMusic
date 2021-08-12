@@ -14,7 +14,7 @@ TODO:
 - Plan (limiting the search space from Rn to {(p1, p2, ...p_n) : p_i ∈ {0, 1}}, i.e. dominance-based)
 - Q-Learning with cross entropy (Each prediction task is an input sequence of l_c note-sets in the multi-stream representation, where l_c is the context length for predicting the next note-set. Given these, the neural network is expected to predict the pitch and duration values for all n_s streams in the next note-set.)
 - Reward/Penalties UI (e.g. Occurrence of seventh chords, triads, etc., high pitch entropy, overuse of very short/long note durations, identical note-sets, ...)
-
+- HyperOpt for architecture/past-to-future context ratio optimization
 
 Misc Notes:
 Discount factor, learning rate, plan bits? = 0.8, 0.075, 20
