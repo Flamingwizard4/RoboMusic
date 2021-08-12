@@ -8,7 +8,7 @@ TODO:
 - Transpose musical sequences to same key (http://nickkellyresearch.com/python-script-transpose-midi-files-c-minor/)
 - Tempo quantization to ensure that a small, common set of note durations represents note lengths in all these tracks
 - Temporal quantization to adjust misaligned notes
-- Encode the pitche values as a one-hot encoded vector of length equal to the number of pitches playable on most pianos (88, from A0 to C8)
+- Encode the pitch values as a one-hot encoded vector of length equal to the number of pitches playable on most pianos (88, from A0 to C8)
 - Encode the durations as a one-hot vector, with each bit corresponding to a note duration that is frequently observed in the musical corpus
 - Multi-Stream Note Representation
 - Plan (limiting the search space from Rn to {(p1, p2, ...p_n) : p_i ∈ {0, 1}}, i.e. dominance-based)
