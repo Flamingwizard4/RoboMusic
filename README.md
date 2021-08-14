@@ -16,6 +16,7 @@ TODO:
 - Plan (limiting the search space from Rn to {(p1, p2, ...p_n) : p_i ∈ {0, 1}}, i.e. dominance-based)
 - Reward/Penalties UI (e.g. Occurrence of seventh chords, triads, etc., high pitch entropy, overuse of very short/long note durations, identical note-sets, ...)
 - Support microtones (stream.pitch.ps)
+- Support instrument-independent composition
 
 Misc Notes:
 Discount factor, learning rate, plan bits? = 0.8, 0.075, 20
